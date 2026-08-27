@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720">
+<rect width="1280" height="720" fill="#fff"/>
+<rect x="30" y="30" width="1220" height="660" fill="none" stroke="#111" stroke-width="6"/>
+<text x="640" y="330" text-anchor="middle" font-family="Arial" font-size="62" font-weight="700" fill="#111">WinPKR Video Guide</text>
+<text x="640" y="405" text-anchor="middle" font-family="Arial" font-size="28" fill="#111">Replace this poster with your real video thumbnail</text>
+</svg>
